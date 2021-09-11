@@ -13,8 +13,8 @@
 
 
 -- Dumping database structure for crm
-CREATE DATABASE IF NOT EXISTS `crm` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `crm`;
+CREATE DATABASE IF NOT EXISTS `crmapi` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `crmapi`;
 
 -- Dumping structure for table crm.activity_log
 CREATE TABLE IF NOT EXISTS `activity_log` (

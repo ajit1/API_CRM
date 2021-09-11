@@ -1,5 +1,5 @@
 {
-	"id": "aa2d5033-e27b-4718-a8e2-2ca9e9ac50bb",
+	"id": "7c860194-125b-4590-99c7-cb68a202eff5",
 	"name": "CRM_API",
 	"values": [
 		{
@@ -19,6 +19,6 @@
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2019-12-18T09:41:30.731Z",
-	"_postman_exported_using": "Postman/7.13.0"
+	"_postman_exported_at": "2021-09-11T10:56:20.819Z",
+	"_postman_exported_using": "Postman/8.12.2"
 }

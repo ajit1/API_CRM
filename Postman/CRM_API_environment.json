@@ -4,12 +4,12 @@
 	"values": [
 		{
 			"key": "BaseUrl",
-			"value": "http://localhost:/",
+			"value": "http://localhost:5000",
 			"enabled": true
 		},
 		{
 			"key": "APIBaseString",
-			"value": "v1/api/",
+			"value": "v1/api",
 			"enabled": true
 		},
 		{
